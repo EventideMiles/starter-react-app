@@ -11,7 +11,11 @@
     "build-storybook": "storybook build"
   },
   "keywords": [
-    "text-based-engine"
+    "react",
+    "typescript",
+    "webpack",
+    "storybook",
+    "starter"
   ],
   "author": "Miles Eventide",
   "license": "CC-BY-4.0",
