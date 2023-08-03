@@ -18,9 +18,10 @@ This project was primarily created because create-react-app was giving me high-r
 2. Run `npm install`
 3. Modify `src/index.tsx` to your liking
 4. Run `npm start` to start the app in development mode
-5. Run `npm run build` to build the app for deployment
-6. Run `npm run build-storybook` to build storybook
-7. Run `npm run storybook` to start storybook
+5. Run `npm run build-windows` to build the app for deployment on windows
+6. Run `mpm run build-linux` to build the app for deployment on linux
+7. Run `npm run build-storybook` to build storybook
+8. Run `npm run storybook` to start storybook
 
 ## License
 

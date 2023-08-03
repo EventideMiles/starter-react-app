@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --port 3000",
-    "build": "set NODE_ENV=production && webpack",
+    "build-windows": "set NODE_ENV=production && webpack",
+    "build-linux": "NODE_ENV=production webpack",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
