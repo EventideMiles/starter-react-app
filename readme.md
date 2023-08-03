@@ -5,6 +5,7 @@ This project was primarily created because create-react-app was giving me high-r
 ## Features
 
 - Build script optimized for windows powershell
+- Build script optimized for linux bash
 - React
 - Storybook
 - Styled-components
